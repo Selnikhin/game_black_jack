@@ -1,16 +1,6 @@
 # game_black_jack
 
-A new Flutter project.
+Создание игры black Jack с возможностью добора карт и запуска нового раунда. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Снимок экрана 2023-03-18 в 18 41 39](https://user-images.githubusercontent.com/91333676/226115927-07f4a296-128f-45b3-94ba-11caf8ad987e.png)
+![Снимок экрана 2023-03-18 в 18 41 57](https://user-images.githubusercontent.com/91333676/226115929-d4c02b06-1783-4264-9e1f-8d4d3238b450.png)
